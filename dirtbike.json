@@ -4,11 +4,11 @@
     "motor"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "pub_id": "pub-2847730674756880",
+  "app_id": "ca-app-pub-2847730674756880~4414600883",
+  "admob_banner_id": "ca-app-pub-2847730674756880/2962908098",
+  "admob_interstitial_id": "ca-app-pub-2847730674756880/5449115412",
+  "admob_native_id": "ca-app-pub-2847730674756880/5205928057",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
