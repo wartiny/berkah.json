@@ -20,11 +20,11 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "startapp_app_id": "21077",
+  "startapp_app_id": "206841362",
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "STARTAPP",
   "list_ads": [
     "ADMOB",
     "STARTAPP",
