@@ -4,11 +4,11 @@
     "girly"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "pub_id": "pub-2847730674756880",
+  "app_id": "ca-app-pub-2847730674756880~5642161889",
+  "admob_banner_id": "ca-app-pub-2847730674756880/3354624487",
+  "admob_interstitial_id": "ca-app-pub-2847730674756880/7732853194",
+  "admob_native_id": "ca-app-pub-2847730674756880/8854363178",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
