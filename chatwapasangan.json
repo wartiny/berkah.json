@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-   "select_ads": "FACEBOOK",
+   "select_ads": "ADMOB",
     "select_backup_ads": "APPLOVIN",
     "backup_mode": "0",
     "status_app": "0",
@@ -16,8 +16,8 @@
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "applovin_banner": "db4d5e8718b97d78",
-    "applovin_inter": "518cd97722c60b52",
+    "applovin_banner": "b87106475145a4db",
+    "applovin_inter": "47151aba143fd0e2",
     "packagename": "com.sadapwadengannomorhp.caramengetahuiisichatpasangan"
   }
 ],
