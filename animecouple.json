@@ -6,15 +6,15 @@
   "init_jumlah_photo": 50,
   "pub_id": "pub-2847730674756880",
   "app_id": "ca-app-pub-2847730674756880~6106718825",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_banner_id": "ca-app-pub-2847730674756880/7081206376",
+  "admob_interstitial_id": "ca-app-pub-2847730674756880/6398486577",
+  "admob_native_id": "ca-app-pub-2847730674756880/6889634681",
 
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
+  "admob_hpk_1": "car",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "sport",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
@@ -24,7 +24,7 @@
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "STARTAPP",
+  "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
     "STARTAPP",
